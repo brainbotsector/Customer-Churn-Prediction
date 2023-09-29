@@ -1,1 +1,2 @@
 # Customer-Churn-Prediction
+Customer churn in telecom business. Builded a deep learning model to predict the churn and use precision,recall, f1-score to measure performance of our model The objective is to build a classifier for prediction of customer churn. This dataset was taken from Kaggle and has 1000 samples. By carefully observing the attributes,the appropriate visualization has been performed. The target variable here is 'exited'. Used algorithm -ANN
